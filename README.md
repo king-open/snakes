@@ -2,9 +2,9 @@
 
 > 写了两个版本 
 
-* python: 
+### 安装：
 
-## 运行方式:
+* python: 
 
 `python3 main.py` 
 
