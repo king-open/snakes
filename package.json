@@ -1,7 +1,7 @@
 {
   "name": "snakes",
-  "version": "1.0.0",
-  "description": "贪吃蛇的游戏双版本",
+  "version": "0.0.2",
+  "description": "贪吃蛇的游戏JavaScript and Python",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/king-open/snakes.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jack",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/king-open/snakes/issues"
