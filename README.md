@@ -14,4 +14,4 @@
 
 ### LICENSE 
 
-[MIT License © 2023](https://github.com/king-open/snakes/blob/main/LICENSE)
+[MIT License © 2023 King](https://github.com/king-open/snakes/blob/main/LICENSE)
