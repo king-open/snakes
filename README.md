@@ -12,3 +12,6 @@
 
 `npx parcel src/index.html --no-cache` 
 
+### LICENSE 
+
+[MIT License © 2023](https://github.com/king-open/snakes/blob/main/LICENSE)
